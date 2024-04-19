@@ -23,7 +23,7 @@
 }
 
 .toggle.active{
-    background: #000 url(file:///C:/Users/Dhilipkumar%20V/OneDrive/Pictures/Camera%20imports/home.jp);
+    background: #000 url('home.jpg');
     background-size: 25px;
     background-position: center;
     background-repeat: no-repeat;
